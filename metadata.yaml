@@ -1,5 +1,8 @@
 _repo: Una-excursion-a-los-indios-ranqueles-Tomo-2_63767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63767-h/images/cover.jpg
 creator:
   author:
     agent_name: Mansilla, Lucio V.
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Lucio_Victorio_Mansilla
     - https://es.wikipedia.org/wiki/Lucio_V._Mansilla
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63767#Una-excursion-a-los-indios-ranqueles-Tomo-2
 gutenberg_issued: '2020-11-14'
 gutenberg_type: Text
 identifiers:
